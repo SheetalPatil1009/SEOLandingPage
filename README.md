@@ -3,9 +3,9 @@
 By Sheetal Patil
 
 
-## [DEPLOYED WEBSITE LINK](https://htmlcssprojectone.netlify.app/)
+## [DEPLOYED WEBSITE LINK](https://landingpageseo.netlify.app/)
 
-![Completed Website](assets/FullScreenShot.JPG)
+![Completed Website](./FullScreenshot.JPG)
 
 ## My learnings from this Project?
 
